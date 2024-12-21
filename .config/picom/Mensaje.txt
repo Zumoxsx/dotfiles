@@ -1,0 +1,1 @@
+Para Picom, las terminales tienen tranparencia, tambien nvim, y los bordes redondos los configuras a tu gusto.

@@ -1,0 +1,20 @@
+[Added Associations]
+image/png=gpicview.desktop;
+text/plain=org.xfce.mousepad.desktop;
+application/vnd.debian.binary-package=gdebi.desktop;
+application/x-xz-compressed-tar=xarchiver.desktop;
+x-scheme-handler/magnet=userapp-transmission-gtk-20KU31.desktop;
+
+[Default Applications]
+image/png=feh.desktop
+text/plain=nvim.desktop
+application/vnd.debian.binary-package=gdebi.desktop
+application/x-xz-compressed-tar=xarchiver.desktop
+x-scheme-handler/magnet=userapp-transmission-gtk-20KU31.desktop
+image/jpeg=feh.desktop
+image/gif=feh.desktop
+video/mp4=mpv.desktop
+video/x-matroska=mpv.desktop
+video/avi=mpv.desktop
+video/webm=mpv.desktop
+text/markdown=nvim.desktop
